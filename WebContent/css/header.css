@@ -1,0 +1,103 @@
+.tou {
+    position: fixed;
+    z-index: 9999;
+    top: 0px;
+    /*left: 0px;
+    bottom: 0px;*/
+    width: 100%;
+    height: 15%;
+    /* position: absolute; */
+   /* background-color: #EEA9B8;*/
+   background-color: #BABABA;
+    font-family:"Ó×Ô²";
+}
+
+.zhong {
+    width: 40%;
+    text-align: center;
+    margin-left: 30%;
+    /* background-color: chartreuse; */
+    /* float: right; */
+    font-size: 50px;
+    /* position: absolute; */
+    color: #C6E2FF;
+    font-family:inherit;
+    font-weight: 900;
+    font-family:"Ó×Ô²";
+}
+
+.logo {
+    /* position: absolute; */
+    /* background-color: violet; */
+    width: 5%;
+    height: 80px;
+    margin-left: 2%;
+    margin-top: -3%;
+    float: left;
+}
+
+.daohang {
+    /* position: absolute; */
+    margin-left: 70%;
+    /* float: none; */
+    background-color: blueviolet;
+    margin-top: -15%;
+    width: 30%;
+    font-family:"Ó×Ô²";
+}
+
+.sousuo {
+    margin-top: -2%;
+    width: 20%;
+    margin-left: 77%;
+font-family:"Ó×Ô²";
+}
+
+
+div ol li {
+    float: left;
+    margin: 20px;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: seashell;
+}
+
+a:hover {
+    color: #FF1493;
+}
+
+a:active {
+    color: #0000FF
+}
+
+/* ±»Ñ¡ÔñµÄÁ´½Ó */
+body {
+    margin: 0;
+}
+
+input {
+    border: 1px solid #ccc;
+    padding: 7px 0px;
+    border-radius: 3px;
+}
+
+button {
+    text-decoration: none;
+    background: #38d3ee;
+    color: #ffffff;
+
+    padding: 7px 20px 7px 20px;
+    font-size: 12px;
+    border-radius: 15px;
+
+    -webkit-transition: all linear 0.30s;
+    -moz-transition: all linear 0.30s;
+    transition: all linear 0.30s;
+
+}
